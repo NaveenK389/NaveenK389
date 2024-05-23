@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaveenK389
+- 👋 Hi, I’m @Naveen Katta
 - 👀 I’m interested in Working with real time projects on IOT/EMBEDED systems/OoP/Python
 - 🌱 I’m currently learning Machine Learning/Deep Learning
 - 💞️ I’m looking to collaborate on ...
