@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kattanaveen202@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: programing is easy😀
+- ⚡ Fun fact: Solve the problem or leave the problem but don't live with the problem
 
 <!---
 NaveenK389/NaveenK389 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
